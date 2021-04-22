@@ -1,1 +1,1 @@
-# express-gunpladb
+# Express를 사용한 MySQL 접근
